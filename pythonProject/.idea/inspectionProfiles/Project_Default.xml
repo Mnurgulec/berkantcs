@@ -1,0 +1,30 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="main.inverse_document_frequency" />
+          <option value="test.*" />
+          <option value="keywords.zemberek" />
+          <option value="zemberek.TurkishSentenceParser" />
+          <option value="summarize_text" />
+          <option value="C" />
+          <option value="jpype.getDefaultJVMPath" />
+          <option value="jpype.shutdownJVM" />
+          <option value="jpype.startJVM" />
+          <option value="main.zemberek" />
+          <option value="main.*" />
+          <option value="pyzemberek" />
+          <option value="en_core_web_sm" />
+          <option value="jaro" />
+          <option value="openai_secret_manager" />
+          <option value="transformers.ElectraForConditionalGeneration" />
+          <option value="keras.preprocessing.sequence.pad_sequences" />
+          <option value="tensorflow.python.keras.layers.TimeDistributed" />
+          <option value="tensorflow.python.keras.layers.TimeDistributedLayer" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
